@@ -26,3 +26,73 @@ Spring Security
 Spring Cloud
     https://spring.io/projects/spring-cloud
 ```
+
+## Frontend Modules
+```eval_rst
+Gateway
+    https://github.com/ETspielberg/gateway
+
+Ausleihprotokoll
+    https://github.com/ETspielberg/protokoll-frontend
+
+Admin
+    https://github.com/ETspielberg/admin-frontend
+
+Media
+    https://github.com/ETspielberg/media-frontend
+
+Fachref
+    https://github.com/ETspielberg/fachref-frontend-server
+```
+
+## Backend Modules
+```eval_rst
+Config server
+    https://github.com/ETspielberg/config
+
+Service discovery
+    https://github.com/ETspielberg/service-discovery
+
+Counter-Retrieval
+    https://github.com/ETspielberg/counter-retrieval
+
+Stock-Anaylzer
+    https://github.com/ETspielberg/stockanalyzer
+
+Scripts
+    https://github.com/ETspielberg/libintel_scripts
+
+Getter
+    https://github.com/ETspielberg/manifestationgetter
+
+Ausleihprotokoll
+    https://github.com/ETspielberg/protokoll-frontend
+```
+
+
+
+
+
+## Angular Frontends
+```eval_rst
+Gateway
+    https://github.com/ETspielberg/gateway-ui
+
+Ausleihprotokoll
+    https://github.com/ETspielberg/protokoll
+
+Admin
+    https://github.com/ETspielberg/admin
+
+Media
+    https://github.com/ETspielberg/media-management
+
+Fachref
+    https://github.com/ETspielberg/fachref-frontend
+
+```
+
+
+
+
+
