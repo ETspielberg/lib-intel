@@ -1,15 +1,27 @@
 # Lib:Intel
 
-Lib:Intel is a plattform for library tools for evidence based stock management (EBMS)
+Lib:Intel is a platform offering a range of tools for libraries to maintain their stock by evidence based stock management (EBMS).
+
+At its core it is a Spring Boot based microservice architeture, whose central components consist of a Eureka discovery service, a secured config server and a Zuul inversed proxy gateway.
+New services can easily be integrated by registering to the central service registry and making them available under a distinct route within the reversed proxy.
+
+The main instruments are the Ausleihprotokoll, the stock analyzer and the counter retrieval tool.
+The connection to the library system is performed py the so called getter client.
 
 ## Verwendete Techniken
 
 ```eval_rst
-Spring Boot
+Spring
     https://spring.io
 
 Spring Boot
     https://spring.io/projects/spring-boot
+    
+Spring Cloud
+    https://spring.io/projects/spring-cloud
+    
+Spring Security
+    https://spring.io/projects/spring-security
 
 Angular 6
     https://angular.io/
@@ -19,12 +31,6 @@ PrimeNG
 
 PostgreSQL
     https://www.postgresql.org/
-
-Spring Security
-    https://spring.io/projects/spring-security
-
-Spring Cloud
-    https://spring.io/projects/spring-cloud
 ```
 
 ## Frontend Modules
